@@ -1,1 +1,1 @@
-test 2
+__author__ = 'n.holovach'
